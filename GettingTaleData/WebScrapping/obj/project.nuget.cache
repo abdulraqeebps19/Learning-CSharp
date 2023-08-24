@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aDgt1ZPXMcwRJBxXVE+p+hS9TQn2nBSDDaIut/h2m3h7R+FbdxdeFkbvyZoPvMEY0nK9L94EAF0vWxpIlAB9rA==",
+  "success": true,
+  "projectFilePath": "F:\\Learning-CSharp\\GettingTaleData\\WebScrapping\\WebScrapping.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\abdul.raqeeb\\.nuget\\packages\\htmlagilitypack\\1.11.52\\htmlagilitypack.1.11.52.nupkg.sha512"
+  ],
+  "logs": []
+}

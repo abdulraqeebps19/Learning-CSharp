@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Learning C#\\GettingTaleData\\GettingTaleData\\GettingTaleData.csproj": {}
+    "F:\\Learning-CSharp\\GettingTaleData\\GettingTaleData\\GettingTaleData.csproj": {}
   },
   "projects": {
-    "F:\\Learning C#\\GettingTaleData\\GettingTaleData\\GettingTaleData.csproj": {
+    "F:\\Learning-CSharp\\GettingTaleData\\GettingTaleData\\GettingTaleData.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Learning C#\\GettingTaleData\\GettingTaleData\\GettingTaleData.csproj",
+        "projectUniqueName": "F:\\Learning-CSharp\\GettingTaleData\\GettingTaleData\\GettingTaleData.csproj",
         "projectName": "GettingTaleData",
-        "projectPath": "F:\\Learning C#\\GettingTaleData\\GettingTaleData\\GettingTaleData.csproj",
+        "projectPath": "F:\\Learning-CSharp\\GettingTaleData\\GettingTaleData\\GettingTaleData.csproj",
         "packagesPath": "C:\\Users\\abdul.raqeeb\\.nuget\\packages\\",
-        "outputPath": "F:\\Learning C#\\GettingTaleData\\GettingTaleData\\obj\\",
+        "outputPath": "F:\\Learning-CSharp\\GettingTaleData\\GettingTaleData\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

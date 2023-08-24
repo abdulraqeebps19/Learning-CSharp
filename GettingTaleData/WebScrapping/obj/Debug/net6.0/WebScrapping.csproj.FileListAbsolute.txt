@@ -1,0 +1,17 @@
+F:\Learning-CSharp\GettingTaleData\WebScrapping\bin\Debug\net6.0\WebScrapping.exe
+F:\Learning-CSharp\GettingTaleData\WebScrapping\bin\Debug\net6.0\WebScrapping.deps.json
+F:\Learning-CSharp\GettingTaleData\WebScrapping\bin\Debug\net6.0\WebScrapping.runtimeconfig.json
+F:\Learning-CSharp\GettingTaleData\WebScrapping\bin\Debug\net6.0\WebScrapping.dll
+F:\Learning-CSharp\GettingTaleData\WebScrapping\bin\Debug\net6.0\WebScrapping.pdb
+F:\Learning-CSharp\GettingTaleData\WebScrapping\bin\Debug\net6.0\HtmlAgilityPack.dll
+F:\Learning-CSharp\GettingTaleData\WebScrapping\obj\Debug\net6.0\WebScrapping.csproj.AssemblyReference.cache
+F:\Learning-CSharp\GettingTaleData\WebScrapping\obj\Debug\net6.0\WebScrapping.GeneratedMSBuildEditorConfig.editorconfig
+F:\Learning-CSharp\GettingTaleData\WebScrapping\obj\Debug\net6.0\WebScrapping.AssemblyInfoInputs.cache
+F:\Learning-CSharp\GettingTaleData\WebScrapping\obj\Debug\net6.0\WebScrapping.AssemblyInfo.cs
+F:\Learning-CSharp\GettingTaleData\WebScrapping\obj\Debug\net6.0\WebScrapping.csproj.CoreCompileInputs.cache
+F:\Learning-CSharp\GettingTaleData\WebScrapping\obj\Debug\net6.0\WebScrapping.csproj.CopyComplete
+F:\Learning-CSharp\GettingTaleData\WebScrapping\obj\Debug\net6.0\WebScrapping.dll
+F:\Learning-CSharp\GettingTaleData\WebScrapping\obj\Debug\net6.0\refint\WebScrapping.dll
+F:\Learning-CSharp\GettingTaleData\WebScrapping\obj\Debug\net6.0\WebScrapping.pdb
+F:\Learning-CSharp\GettingTaleData\WebScrapping\obj\Debug\net6.0\WebScrapping.genruntimeconfig.cache
+F:\Learning-CSharp\GettingTaleData\WebScrapping\obj\Debug\net6.0\ref\WebScrapping.dll
