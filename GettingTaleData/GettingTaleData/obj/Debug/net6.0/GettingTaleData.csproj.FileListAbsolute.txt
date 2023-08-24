@@ -1,0 +1,42 @@
+F:\Dev\GettingTaleData\GettingTaleData\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+F:\Dev\GettingTaleData\GettingTaleData\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+F:\Dev\GettingTaleData\GettingTaleData\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+F:\Dev\GettingTaleData\GettingTaleData\bin\Debug\net6.0\GettingTaleData.exe
+F:\Dev\GettingTaleData\GettingTaleData\bin\Debug\net6.0\GettingTaleData.deps.json
+F:\Dev\GettingTaleData\GettingTaleData\bin\Debug\net6.0\GettingTaleData.runtimeconfig.json
+F:\Dev\GettingTaleData\GettingTaleData\bin\Debug\net6.0\GettingTaleData.dll
+F:\Dev\GettingTaleData\GettingTaleData\bin\Debug\net6.0\GettingTaleData.pdb
+F:\Dev\GettingTaleData\GettingTaleData\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\Dev\GettingTaleData\GettingTaleData\bin\Debug\net6.0\WebDriver.dll
+F:\Dev\GettingTaleData\GettingTaleData\obj\Debug\net6.0\GettingTaleData.csproj.AssemblyReference.cache
+F:\Dev\GettingTaleData\GettingTaleData\obj\Debug\net6.0\GettingTaleData.GeneratedMSBuildEditorConfig.editorconfig
+F:\Dev\GettingTaleData\GettingTaleData\obj\Debug\net6.0\GettingTaleData.AssemblyInfoInputs.cache
+F:\Dev\GettingTaleData\GettingTaleData\obj\Debug\net6.0\GettingTaleData.AssemblyInfo.cs
+F:\Dev\GettingTaleData\GettingTaleData\obj\Debug\net6.0\GettingTaleData.csproj.CoreCompileInputs.cache
+F:\Dev\GettingTaleData\GettingTaleData\obj\Debug\net6.0\GettingTaleData.csproj.CopyComplete
+F:\Dev\GettingTaleData\GettingTaleData\obj\Debug\net6.0\GettingTaleData.dll
+F:\Dev\GettingTaleData\GettingTaleData\obj\Debug\net6.0\refint\GettingTaleData.dll
+F:\Dev\GettingTaleData\GettingTaleData\obj\Debug\net6.0\GettingTaleData.pdb
+F:\Dev\GettingTaleData\GettingTaleData\obj\Debug\net6.0\GettingTaleData.genruntimeconfig.cache
+F:\Dev\GettingTaleData\GettingTaleData\obj\Debug\net6.0\ref\GettingTaleData.dll
+F:\Learning C#\GettingTaleData\GettingTaleData\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+F:\Learning C#\GettingTaleData\GettingTaleData\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+F:\Learning C#\GettingTaleData\GettingTaleData\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+F:\Learning C#\GettingTaleData\GettingTaleData\bin\Debug\net6.0\GettingTaleData.exe
+F:\Learning C#\GettingTaleData\GettingTaleData\bin\Debug\net6.0\GettingTaleData.deps.json
+F:\Learning C#\GettingTaleData\GettingTaleData\bin\Debug\net6.0\GettingTaleData.runtimeconfig.json
+F:\Learning C#\GettingTaleData\GettingTaleData\bin\Debug\net6.0\GettingTaleData.dll
+F:\Learning C#\GettingTaleData\GettingTaleData\bin\Debug\net6.0\GettingTaleData.pdb
+F:\Learning C#\GettingTaleData\GettingTaleData\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\Learning C#\GettingTaleData\GettingTaleData\bin\Debug\net6.0\WebDriver.dll
+F:\Learning C#\GettingTaleData\GettingTaleData\obj\Debug\net6.0\GettingTaleData.csproj.AssemblyReference.cache
+F:\Learning C#\GettingTaleData\GettingTaleData\obj\Debug\net6.0\GettingTaleData.GeneratedMSBuildEditorConfig.editorconfig
+F:\Learning C#\GettingTaleData\GettingTaleData\obj\Debug\net6.0\GettingTaleData.AssemblyInfoInputs.cache
+F:\Learning C#\GettingTaleData\GettingTaleData\obj\Debug\net6.0\GettingTaleData.AssemblyInfo.cs
+F:\Learning C#\GettingTaleData\GettingTaleData\obj\Debug\net6.0\GettingTaleData.csproj.CoreCompileInputs.cache
+F:\Learning C#\GettingTaleData\GettingTaleData\obj\Debug\net6.0\GettingTaleData.csproj.CopyComplete
+F:\Learning C#\GettingTaleData\GettingTaleData\obj\Debug\net6.0\GettingTaleData.dll
+F:\Learning C#\GettingTaleData\GettingTaleData\obj\Debug\net6.0\refint\GettingTaleData.dll
+F:\Learning C#\GettingTaleData\GettingTaleData\obj\Debug\net6.0\GettingTaleData.pdb
+F:\Learning C#\GettingTaleData\GettingTaleData\obj\Debug\net6.0\GettingTaleData.genruntimeconfig.cache
+F:\Learning C#\GettingTaleData\GettingTaleData\obj\Debug\net6.0\ref\GettingTaleData.dll
